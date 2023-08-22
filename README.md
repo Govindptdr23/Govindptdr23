@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Govind Patidar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fanimated-chock-coding-c78f6elj32sfoi8q.html&psig=AOvVaw0P2t0Urmv7__AFC3iq1igY&ust=1692819954478000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj3_PGD8YADFQAAAAAdAAAAABAK">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindptdr23&label=Profile%20views&color=0e75b6&style=flat" alt="govindptdr23" /> </p>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindptdr23" alt="govindptdr23" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindptdr23&label=Profile%20views&color=0e75b6&style=flat" alt="govindptdr23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -44,4 +45,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindptdr23&show_icons=true&locale=en" alt="govindptdr23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govindptdr23&" alt="govindptdr23" /></p>
-  
